@@ -2,7 +2,7 @@ name: Builb Test and push
 on: [push]
 env:
   IMAGE_NAME: ruubb/student_service
-  REPO_NAME: lab1
+  REPO_NAME: ruubb/student_service
   
 
 
