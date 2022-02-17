@@ -1,8 +1,8 @@
 name: Builb Test and push
 on: [push]
 env:
-  IMAGE_NAME: ruubb/student_service
-  REPO_NAME:
+  IMAGE_NAME: student_service
+  REPO_NAME: ruubb
   
 
 
